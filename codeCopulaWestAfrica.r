@@ -1,5 +1,5 @@
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Example code for modeling copula on west Africa map by Osafu
+# Example code for joint modeling with copula on West Africa map by Osafu
 # Last modified  May 2023.
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -65,7 +65,7 @@ plt <- plot(outDA,eq=1)
 plt <- plot(outDA,eq=2)
 
 # and so on...
-loc=2 ##In this modeling, loc=2 extracts the spatial effect estimate. In general loc is the position
+loc=2 ##In this modeling, loc=2 extracts the spatial effect estimate. In general, loc is the position
       ## of the "s(region)" among all the s() functions in the respective linear predictor used.
 est=data.frame(id=id,effect=as.vector(plt[[loc]]$fit))
 
