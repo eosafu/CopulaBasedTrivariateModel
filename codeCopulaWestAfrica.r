@@ -1,7 +1,7 @@
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Example code for joint modeling with copula on West Africa map by Osafu
 # Last modified  May 2023.
-#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
  
 library(GJRM)
 library(BayesX)
