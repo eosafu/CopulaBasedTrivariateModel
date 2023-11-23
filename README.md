@@ -3,4 +3,4 @@ Acute respiratory infections (ARI), diarrhea, and fever are three common childho
 
 ![image](https://github.com/eosafu/CopulaBasedTrivariateModel/assets/70357973/2388520c-2556-4151-91c3-adecc30e6b0f)
 
-# Link to published paper: https://www.sciencedirect.com/science/article/pii/S187758452300028X?casa_token=HmL8KPiVk6sAAAAA:5k81KclHMfdao8jJz2eR4mQnfbUjA_Bq5o7VZCzo1fSU9x0Ej6S1RzECMcM9xZJxdhKWWzOb5g
+## Link to published paper: https://www.sciencedirect.com/science/article/pii/S187758452300028X?casa_token=HmL8KPiVk6sAAAAA:5k81KclHMfdao8jJz2eR4mQnfbUjA_Bq5o7VZCzo1fSU9x0Ej6S1RzECMcM9xZJxdhKWWzOb5g
